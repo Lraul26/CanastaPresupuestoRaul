@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CanastaPresupuestoRaul</string>
+    <string name="action_settings">Settings</string>
+
+	<!--Cadenas de textos para el activity ListaDeAnios-->
+	<string name="TextView1">SELECCIONE UN AÑO</string>
+	<string name="TextView2">Año</string>
+	<string name="TextView3">Total</string>
+	<string name="TextView4">Alimentos</string>
+	<string name="TextView5">Vestuarios</string>
+	<string name="TextView6">Uso Del Hogar</string>
+	<string name="TextView7">Tabla de Gasto Promedio Por Año</string>
+	<!--Cadenas de textos para el activity DetalleMes-->
+	<string name="TextView8">GASTOS\nVESTUARIOS</string>
+	<string name="TextView9">GASTOS\nALIMENTOS</string>
+	<string name="TextView10">GASTOS\nUSO DE HOGAR</string>
+	<string name="TextView11">GASTOS\nTOTAL DEL MES</string>
+</resources>
